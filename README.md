@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning the DSA and Back end <br>I am currently working on by Start up -Dream space<br>All of my pojects are available on GitHib<br>Ask me about programming 
+I am currently learning the python <br>I am currently working on by Start up -Dream space<br>All of my pojects are available on GitHib<br>Ask me about programming 
 
 
 ## 🌐 Socials:
